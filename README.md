@@ -12,6 +12,7 @@ Automatic installer for:
 ## Installation
 
 sudo apt update
+
 wget https://raw.githubusercontent.com/bonie19/ubuntu-lamp-installer/main/install_lamp.sh
 
 chmod +x install_lamp.sh
